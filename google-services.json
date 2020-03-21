@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "525250012947",
+    "firebase_url": "https://aqueous-cortex-245504.firebaseio.com",
+    "project_id": "aqueous-cortex-245504",
+    "storage_bucket": "aqueous-cortex-245504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525250012947:android:78de1bbda6c26c9925dce6",
+        "android_client_info": {
+          "package_name": "com.app.sample.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525250012947-98g3d3gee5sq58v7rateqsk9vahgicmp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.sample.shop",
+            "certificate_hash": "6d57266bab29da809a7747462838be22f7bada18"
+          }
+        },
+        {
+          "client_id": "525250012947-sdlvsv2pfqjht63l9ogjvhcvm43rilg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUwTeARXrg-8hY8JUuCUKrotO8xhcTEVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525250012947-sdlvsv2pfqjht63l9ogjvhcvm43rilg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
